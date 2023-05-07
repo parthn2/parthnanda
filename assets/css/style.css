@@ -1702,3 +1702,11 @@ textarea.form-input::-webkit-resizer { display: none; }
     padding: 2rem 50px;
     }
   }
+
+  /**
+	 * PAGES
+	*/
+
+  .about-img{
+    display: flex;
+  }
